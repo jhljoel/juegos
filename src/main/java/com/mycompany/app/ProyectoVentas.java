@@ -16,7 +16,7 @@ import com.mycompany.app.gui.Login;
 public class ProyectoVentas {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World! Hola Mundo");
         new Login().setVisible(true);
     } 
 }
